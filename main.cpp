@@ -11,7 +11,8 @@ int main() {
     ALLEGRO_DISPLAY* window = al_create_display(1280, 720);
     al_set_window_title(window, "HelloAllegro");
 
-    std::cout<<"Bye"<<std::endl;
+    std::cout<<"By1e"<<std::endl;
+
 
     while(true)
     {}
